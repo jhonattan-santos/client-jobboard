@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@apollo/client": "^3.7.1",
     "bulma": "^0.9.3",
     "g": "^2.0.1",
     "graphql": "^16.6.0",
